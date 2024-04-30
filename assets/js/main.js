@@ -16,7 +16,7 @@ fetch(
 
 // 
 
-const texts = ["Android developer.", "Programer.", "Flutter Dev.","Backend Developer."];
+const texts = ["Native Apps developer.", "Programer.", "Ui Designer and Dev.","Backend Developer."];
 const speed = 110;
 const pause = 800; // <--- the longer delay between text direction changes
 
